@@ -7,6 +7,11 @@ The app runs seamlessly on **GitHub Pages** and uses **browser local storage** t
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue) 
 ![Local Storage](https://img.shields.io/badge/Data-Local%20Storage-orange)
 
+
+## Developer
+
+Developed by **Elitescientist**
+
 ---
 
 ## 🚀 Features
