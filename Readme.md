@@ -37,4 +37,31 @@ The app runs seamlessly on **GitHub Pages** and uses **browser local storage** t
 1. Create a new GitHub repository  
 2. Add the project files, ensuring the main file is `index.html`  
 3. Push to GitHub and enable **GitHub Pages** in repo settings  
-4. Access your app at:  
+4. Access your app at:
+
+
+---
+
+## 📄 License
+
+This project is open source under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+- Fork the repo  
+- Create a feature branch  
+- Submit a Pull Request  
+
+---
+
+## 🛠 Support
+
+For questions or issues, please open an **Issue** in this repository.  
+
+---
+
+⚠️ **Note**: All data is stored locally. Clearing your browser data will delete your tasks & tracking info.
+
