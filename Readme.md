@@ -1,9 +1,11 @@
 # Productivity Time Tracker
 
+[Live Demo 🚀](https://roshangupta00750.github.io/TimeTracker/)
+
 A lightweight and comprehensive **web-based time tracking application** that helps you monitor daily productivity, manage tasks, set deadlines, and receive reminders.  
 The app runs seamlessly on **GitHub Pages** and uses **browser local storage** to persist data between sessions.
 
-![Productivity Time Tracker]([https://img.shields.io/badge/Productivity-Tracker-brightgreen](https://roshangupta00750.github.io/TimeTracker/)) 
+![Productivity Time Tracker](https://roshangupta00750.github.io/TimeTracker/)
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue) 
 ![Local Storage](https://img.shields.io/badge/Data-Local%20Storage-orange)
 
@@ -43,7 +45,7 @@ Developed by **Elitescientist**
 2. Add the project files, ensuring the main file is `index.html`  
 3. Push to GitHub and enable **GitHub Pages** in repo settings  
 4. Access your app at:
-
+   https://roshangupta00750.github.io/TimeTracker/
 
 ---
 
@@ -69,4 +71,3 @@ For questions or issues, please open an **Issue** in this repository.
 ---
 
 ⚠️ **Note**: All data is stored locally. Clearing your browser data will delete your tasks & tracking info.
-
