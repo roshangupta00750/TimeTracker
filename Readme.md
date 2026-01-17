@@ -5,9 +5,6 @@
 A lightweight and comprehensive **web-based time tracking application** that helps you monitor daily productivity, manage tasks, set deadlines, and receive reminders.  
 The app runs seamlessly on **GitHub Pages** and uses **browser local storage** to persist data between sessions.
 
-![Productivity Time Tracker](https://roshangupta00750.github.io/TimeTracker/)
-![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue) 
-![Local Storage](https://img.shields.io/badge/Data-Local%20Storage-orange)
 
 
 ## Developer
